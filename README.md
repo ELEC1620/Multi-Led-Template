@@ -5,7 +5,7 @@ Multi-Led-Template
   
   NOTE: To be expanded based on the information in Activity 2.
         
-  MBED Studio version: 1.4.1 
-  MBED OS version: 6.12.0 
+  MBED Studio version: N/A (Keil Studio) 
+  MBED OS version: 6.13.0 
   Board: NUCLEO L476RG 
   Author: James Chandler 2021
