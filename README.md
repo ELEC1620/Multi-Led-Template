@@ -1,7 +1,11 @@
-/*  Multiple LED Example
-*  
-*   Operate multiple LED outputs. Use code to configure and toggle 4 external LEDs 
-*
-*   Board: NUCLEO L476RG
-*   Author: Dr James H. Chandler, University of Leeds 2021  
-*/
+Multi-Led-Template
+  ===========
+  
+  Template for blinking multiple external leds. Activity 2
+  
+  NOTE: To be expanded based on the information in Activity 2.
+        
+  MBED Studio version: 1.4.1 
+  MBED OS version: 6.12.0 
+  Board: NUCLEO L476RG 
+  Author: James Chandler 2021
